@@ -1,4 +1,4 @@
-# Deep Artificial Neural Network (ANN) Tutorial (Version enrichie)
+# Deep Artificial Neural Network (ANN) Tutorial
 
 # Table des matières
 - [Présentation](#présentation)
