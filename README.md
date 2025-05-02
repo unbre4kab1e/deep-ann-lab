@@ -60,4 +60,4 @@ jupyter notebook
 - [Hugging Face](https://huggingface.co/)
 
 # Licence
-Projet sous licence MIT.
+Projet sous licence GPL-3.0
