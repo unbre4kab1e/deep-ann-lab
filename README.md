@@ -1,4 +1,4 @@
-# Deep Artificial Neural Network (ANN) Tutorial
+# Deep Artificial Neural Network (ANN)
 
 # Table des matières
 - [Présentation](#présentation)
@@ -15,8 +15,8 @@ Ce projet présente une introduction pratique aux réseaux de neurones artificie
 - Toute la documentation nécessaire pour installer et exécuter le projet.
 
 # Contenu du dépôt
-- `notebooks/deep_ann_tutorial.ipynb` : Tutoriel complet en Jupyter Notebook.
-- `videos/deep_ann_presentation.mp4` : Vidéo explicative de l'environnement et du code.
+- `notebooks/deep_ann.ipynb` : Tutoriel complet en Jupyter Notebook.
+- `videos/deep_ann_présentation.mp4` : Vidéo explicative de l'environnement et du code.
 - `requirements.txt` : Liste des dépendances Python.
 
 # Mise en place de l'environnement
