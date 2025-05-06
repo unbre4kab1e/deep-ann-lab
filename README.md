@@ -8,6 +8,8 @@
 - [Ressources Utilisées](#ressources-utilisées)
 - [Licence](#licence)
 
+La vidéo de la présentation:
+
 [![La vidéo de la présentation](https://img.youtube.com/vi/b3yVb2VtcUU/0.jpg)](https://www.youtube.com/watch?v=b3yVb2VtcUU)
 
 # Présentation
