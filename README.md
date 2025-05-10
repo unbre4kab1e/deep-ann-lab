@@ -15,7 +15,7 @@ La vidéo de la présentation (Utilisez la qualité --> 760p SVP):
 # Présentation
 Ce projet présente une introduction pratique aux réseaux de neurones artificiels profonds en utilisant TensorFlow. Vous y trouverez :
 - Un notebook Jupyter.
-- Une vidéo explicative (moins de 7 minutes).
+- Une vidéo explicative.
 - Toute la documentation nécessaire pour installer et exécuter le projet.
 
 # Contenu du dépôt
