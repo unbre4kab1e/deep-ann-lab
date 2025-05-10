@@ -20,7 +20,7 @@ Ce projet présente une introduction pratique aux réseaux de neurones artificie
 
 # Contenu du dépôt
 - `notebooks/deep_ann.ipynb` : Tutoriel complet en Jupyter Notebook.
-- `videos/deep_ann_présentation.mp4` : Vidéo explicative de l'environnement et du code.
+- `Lien youtube ci-dessus` : Vidéo explicative de l'environnement et du code.
 - `requirements.txt` : Liste des dépendances Python.
 
 # Mise en place de l'environnement
